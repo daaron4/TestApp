@@ -1,0 +1,46 @@
+#built application files
+*.apk
+*.ap_
+/*/build/
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Android Studio
+.gradle
+build/
+
+# tmp files
+*~
+*.swp
+
+# Android Studio Files
+.idea
+.idea/*
+*.iml
+/*/*.iml
+
+#Javadoc files
+*.css
+
+# Project Modules
+mofo-*
+
+# Dependency Check
+jira.txt
+version.txt
