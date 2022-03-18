@@ -1,6 +1,7 @@
 # TestApp
 
 I found a simple calculator app online and copied the code over. To nobody’s surprise its full of bugs and sort-of works. Imagine that you are working for the client that built this app. The project is to help them fix this app. The prompt is below:
+
 Hi there, our new client is ‘Company X’ and we need to help them with their Android application. Here are the instructions:
 
 1)	Clone this git repository.
